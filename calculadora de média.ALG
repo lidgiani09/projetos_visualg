@@ -13,11 +13,11 @@ imc:real
 peso:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-
+// Seção de Comandos, procedimento, funções, operadores, etc...
+escreval("Esse projeto está dentro do git hhub!")
 escreval("####PROGRAMA DE CALCULOS###")
 escreval("")
-escreval("Digite a opção desejada:")
+
 escreval("1-Cáculo de área de retângulo")
 escreval("2-Cáculo de área de triângulo")
 escreval("3-Cáculo de área do círculo")
